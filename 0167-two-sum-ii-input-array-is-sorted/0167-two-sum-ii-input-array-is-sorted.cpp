@@ -4,13 +4,12 @@ public:
         int n = numbers.size();
         int left = 0;
         int right = n-1;
-        vector<int> ans;
+
         while (left < right){
             int sum = numbers[left] + numbers[right];
             if (sum == target){
-                ans.push_back(left + 1);
-                ans.push_back(right + 1);
-                return ans;
+            
+                return {left + 1, right + 1};
             }
             else if (sum < target){
                 left++;
@@ -20,6 +19,6 @@ public:
             }
 
         }
-        return ans;
+        return {-1, -1};
     }
 };
