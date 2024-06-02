@@ -32,3 +32,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahil2802/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+# Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
