@@ -28,9 +28,9 @@ public:
         int rSum = max(0, DFS(root->right, maxSum));
 
         // update the maximum path sum path sum that includes the current node and both left and right subtrees.
-        int currentPathSum = root->val + lSum + rSum;
+        // int currentPathSum = root->val + lSum + rSum;
         // if the current path sum is greater update the overall maximum path sum 
-        maxSum = max(maxSum, currentPathSum);
+        maxSum = max(maxSum, root->val + lSum + rSum);
 
         // Return the maximum path sum that includes the current node and one of its subtrees
         return root->val + max(lSum, rSum);
