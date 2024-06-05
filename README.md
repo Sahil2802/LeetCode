@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
 # Design
 |  |
@@ -52,3 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+# Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
