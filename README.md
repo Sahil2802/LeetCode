@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahil2802/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahil2802/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
 # Sorting
 |  |
@@ -63,3 +65,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
+# String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahil2802/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sahil2802/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
