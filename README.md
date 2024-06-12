@@ -9,16 +9,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sahil2802/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Tree
 |  |
 | ------- |
@@ -52,10 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Data Stream
 |  |
 | ------- |
@@ -92,3 +97,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
+# Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
