@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
@@ -87,3 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
+# Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
