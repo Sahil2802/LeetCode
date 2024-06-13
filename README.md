@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Sahil2802/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
 # Hash Table
 |  |
@@ -109,3 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sahil2802/LeetCode/tree/master/0347-top-k-frequent-elements) |
+# Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sahil2802/LeetCode/tree/master/0238-product-of-array-except-self) |
