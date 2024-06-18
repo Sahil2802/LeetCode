@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Sahil2802/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Sahil2802/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sahil2802/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 # Depth-First Search
 |  |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Sahil2802/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/Sahil2802/LeetCode/tree/master/0295-find-median-from-data-stream) |
 # Design
@@ -117,3 +120,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sahil2802/LeetCode/tree/master/0238-product-of-array-except-self) |
+# Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
