@@ -1,5 +1,6 @@
 class Solution {
 public:
+    unordered_set <int> st;
     void solve(vector<vector <int>> &ans, vector<int> &temp, vector<int>& nums){
         // base case : if tempSize is same as the nums size current permutation is completed
         if(temp.size() == nums.size()){
@@ -8,21 +9,22 @@ public:
         }
 
         for(int i = 0; i < nums.size(); i++){
-            // if the current element is already in temp, skip the element in the iteration.
-            if(find(temp.begin(), temp.end(), nums[i]) != temp.end()){
-                continue;
+            // condition satisfied: If nums[i] is not found
+            if(st.find(nums[i]) == st.end()){
+                // Add the current element nums[i] to temp and in set
+                temp.push_back(nums[i]);
+                st.insert(nums[i]);
+                // recursive call with the updated temp
+                solve(ans, temp, nums);
+                // Backtrack: remove the last element added from temp and set
+                temp.pop_back();
+                st.erase(nums[i]);
             }
-            // Add the current element nums[i] to temp
-            temp.push_back(nums[i]);
-            // recursive call with the updated temp
-            solve(ans, temp, nums);
-            // Backtrack: remove the last element added
-            temp.pop_back();
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector <int>> ans;
+        vector<vector <int>> ans; 
         vector<int> temp; // temporary vector to store the curr permutations
         solve(ans, temp, nums);
         return ans;
