@@ -1,32 +1,23 @@
 class Solution {
 public:
     unordered_set <int> st;
-    void solve(vector<vector <int>> &ans, vector<int> &temp, vector<int>& nums){
-        // base case : if tempSize is same as the nums size current permutation is completed
-        if(temp.size() == nums.size()){
-            ans.push_back(temp); // add the current permutation to the ans
+    void solve(vector<vector <int>> &ans, int ind, vector<int>& nums){
+        // base case : if index reaches the end append the permutation and return
+        if(ind == nums.size()){
+            ans.push_back(nums); // add the current permutation to the ans
             return; // return the curr recursive call
-        }
+        }   
 
-        for(int i = 0; i < nums.size(); i++){
-            // condition satisfied: If nums[i] is not found
-            if(st.find(nums[i]) == st.end()){
-                // Add the current element nums[i] to temp and in set
-                temp.push_back(nums[i]);
-                st.insert(nums[i]);
-                // recursive call with the updated temp
-                solve(ans, temp, nums);
-                // Backtrack: remove the last element added from temp and set
-                temp.pop_back();
-                st.erase(nums[i]);
-            }
+        for(int i = ind; i < nums.size(); i++){
+            swap(nums[ind], nums[i]); // Swap the curr element with the element at the curr index
+            solve(ans, ind + 1, nums);
+            swap(nums[ind], nums[i]); // Backtrack-> Swap back the elements
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector <int>> ans; 
-        vector<int> temp; // temporary vector to store the curr permutations
-        solve(ans, temp, nums);
+        solve(ans, 0, nums);
         return ans;
     }
 };
