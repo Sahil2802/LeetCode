@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Sahil2802/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Sahil2802/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Sahil2802/LeetCode/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Sahil2802/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sahil2802/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Sahil2802/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Sahil2802/LeetCode/tree/master/0077-combinations) |
 # String
 |  |
