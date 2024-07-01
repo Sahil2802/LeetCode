@@ -1,33 +1,42 @@
 class MinStack {
 public:
-    stack<pair<int, int>> st; //Stack to store pairs of (value, current minimum)
+    stack<long> st;
+    long mini; // store the current minimum value
     MinStack() {}
     
     void push(int val) {
         if(st.empty()){
-            // if the stack is empty then the curr minimum is the value itself
-            int mini = val;
-            st.push({val, val});
+            st.push(val); // If the stack is empty, push the value directly
+            mini = val; // set the min value to the curr value
+        }
+        else if(val <= mini){
+            st.push(2ll * val - mini); // Store a modified value to keep track of the previous minimum
+            mini = val; // Update the current minimum value
         }
         else{
-            // if the stack is not empty then the curr min is the minimum of new value and curr min
-            int mini = min(st.top().second, val);
-            st.push({val, mini});
+            st.push(val); // Otherwise, push the value directly
         }
     }
     
     void pop() {
         if(st.empty()) return;
+        if(st.top() < mini){
+            mini = 2ll * mini - st.top(); // Restore the previous minimum value if a modified value is popped
+        }
         st.pop();
     }
     
     int top() {
         if(st.empty()) return -1;
-        return st.top().first; // return the value of the pair
+        if(st.top() < mini){ // If the top value is a modified value, return the current minimum
+            return mini;
+        }
+        return st.top(); // Otherwise, return the top value as it is
     }
     
     int getMin() {
-        return st.top().second; // return the minimum part of the pair
+        if(st.empty()) return -1;
+        return mini; // Return the current minimum value
     }
 };
 
