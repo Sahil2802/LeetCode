@@ -1,42 +1,33 @@
 class MinStack {
 public:
-    stack<int> s1, s2; // s1: to store all the elements, s2: to store min elements
+    stack<pair<int, int>> st; //Stack to store pairs of (value, current minimum)
     MinStack() {}
     
     void push(int val) {
-        // If s1 is empty or 
-        // the new value is less than or equal to the current minimum i.e s2.top(), 
-        // push it onto s2.
-        if(s1.empty() || val <= s2.top()){
-            s2.push(val);
+        if(st.empty()){
+            // if the stack is empty then the curr minimum is the value itself
+            int mini = val;
+            st.push({val, val});
         }
-        // push the curr val in s1
-        s1.push(val);
+        else{
+            // if the stack is not empty then the curr min is the minimum of new value and curr min
+            int mini = min(st.top().second, val);
+            st.push({val, mini});
+        }
     }
     
     void pop() {
-        // if s1 is empty just return
-        if(s1.empty()) return;
-        // before removing the s1 top check if s1 top is equal to s2 top, pop from s2 as well
-        if(s1.top() == s2.top()){
-            s2.pop();
-        }
-        // pop the value from s1
-        s1.pop();
+        if(st.empty()) return;
+        st.pop();
     }
     
     int top() {
-        // if the stack is empty return -1
-        if(s1.empty()) return -1;
-        // otherwise just return the top value of s1
-        return s1.top();
+        if(st.empty()) return -1;
+        return st.top().first; // return the value of the pair
     }
     
     int getMin() {
-        // if the stack is empty return -1
-        if(s1.empty()) return -1;
-        // otherwise just return the top value of s2, which is the minimum
-        return s2.top();
+        return st.top().second; // return the minimum part of the pair
     }
 };
 
