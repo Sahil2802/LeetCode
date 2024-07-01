@@ -155,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
