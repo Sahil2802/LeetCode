@@ -1,16 +1,15 @@
 class Solution {
 public:
-    int Operate(int a, int b, string token){
-        if(token == "+") return a+b;
-        if(token == "-") return a-b;
-        if(token == "*") return (long)a*(long)b;
-        if(token == "/") return a/b;
-
-        return -1;
-    }
-
     int evalRPN(vector<string>& tokens) {
         stack <int> st;
+
+        unordered_map<string, function<int (int, int)>> mp = {
+            {"+", [](int a, int b) {return a+b;}},
+            {"-", [](int a, int b) {return a-b;}},
+            {"*", [](int a, int b) {return (long)a*(long)b;}},
+            {"/", [](int a, int b) {return a/b;}},
+        }; 
+
         // Loop through each token from the input
         for (string &token : tokens){
             // If the token is an operator pop the top 2 elements after storing them in var a and b. 
@@ -21,7 +20,7 @@ public:
                 int a = st.top(); // Get the first operand from the stack
                 st.pop(); // Push the result back onto the stack
 
-                int result = Operate(a, b, token); // Perform the operation
+                int result = mp[token](a,b); // Perform the operation
                 st.push(result);
             }
             else{
