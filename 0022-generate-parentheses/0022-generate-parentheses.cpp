@@ -2,37 +2,33 @@ class Solution {
 public:
     vector<string> result;
     
-    bool isValid(string& str){
-        int count = 0;
-        for(char &ch: str){
-            if (ch == '(') count++;
-            else count--;
-            if (count < 0) return false;
-        }
-        return count==0;
-    }
-
-    void solve(string& curr, int n) {
+    void solve(string& curr, int n, int open, int close) {
         if (curr.length() == 2 * n) {
-            if (isValid(curr)) {
-                result.push_back(curr);
-            }
+            result.push_back(curr);
             return;
         }
 
-        curr.push_back('(');
-        solve(curr, n);
-        curr.pop_back();
+        // we dont have to add more than n open paranthesis
+        if (open < n){
+            curr.push_back('(');
+            solve(curr, n, open + 1, close);
+            curr.pop_back(); // Backtrack to explore other possibilities
+        }
 
-        curr.push_back(')');
-        solve(curr, n);
-        curr.pop_back();
+        // for valid parantheses, open paranthesis should always be more than closing paranthesis
+        if (close < open){
+            curr.push_back(')');
+            solve(curr, n, open, close + 1);
+            curr.pop_back(); // Backtrack to explore other possibilities
+        }
     }
 
     vector<string> generateParenthesis(int n) {
         string curr = "";
 
-        solve(curr, n);
+        int open = 0; // count of open paranthesis
+        int close = 0; // count of close paranthesis
+        solve(curr, n, open, close);
 
         return result;
     }
