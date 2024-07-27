@@ -1,18 +1,23 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        // Iterate through each row of the matrix
-        for (int i = 0; i < matrix.size(); i++){
-            // Iterate through each column of the current row
-            for (int j = 0; j < matrix[0].size(); j++){
-                // Check if the current element matches the target
-                if(matrix[i][j] == target){
-                    // If found return true
-                    return true; 
-                }
-            }
+        int n = matrix.size();
+        // Initialize row index to 0 (first row)
+        int i = 0;
+        // Initialize col index to last column 
+        int j = matrix[0].size() - 1;
+
+        // Loop until the indices are within the bounds of the matrix
+        while(i < n && j >= 0){
+            // If the current element is the target, return true
+            if (matrix[i][j] == target) return true;
+            // If the current element is greater than the target, move left in the current row
+            if (matrix[i][j] > target) j--;
+             // If the current element is less than the target, move down to the next row
+            else ++i; 
         }
-        // Loop exhausted, element not found
-        return false;
+        // Loop exhausted, element does not exist
+        return false;        
     }
+
 };
