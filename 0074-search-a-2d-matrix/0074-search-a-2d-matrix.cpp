@@ -1,23 +1,37 @@
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        int n = matrix.size();
-        // Initialize row index to 0 (first row)
-        int i = 0;
-        // Initialize col index to last column 
-        int j = matrix[0].size() - 1;
+        // number of rows in the matrix
+        int m = matrix.size();
+        // number of columns in the matrix
+        int n = matrix[0].size();
 
-        // Loop until the indices are within the bounds of the matrix
-        while(i < n && j >= 0){
-            // If the current element is the target, return true
-            if (matrix[i][j] == target) return true;
-            // If the current element is greater than the target, move left in the current row
-            if (matrix[i][j] > target) j--;
-             // If the current element is less than the target, move down to the next row
-            else ++i; 
+        // initialize the left and right boundaries for binary search
+        int l = 0;
+        int r = m * n - 1;
+
+        while (l <= r) {
+            // Calculate the mid index
+            int mid = l + (r - l) / 2;
+
+            // Convert the 1D index to 2D indices
+            int row = mid / n;
+            int col = mid % n;
+
+            // Check if the middle element is the target
+            if (matrix[row][col] == target) {
+                return true; 
+            }
+            // If the middle element is greater than the target, search in the left half
+            else if (matrix[row][col] > target) {
+                r = mid - 1;
+            }
+            // If the middle element is less than the target, search in the right half
+            else {
+                l = mid + 1;
+            }
         }
-        // Loop exhausted, element does not exist
-        return false;        
+        // loop exhausted, target not found
+        return false;
     }
-
 };
