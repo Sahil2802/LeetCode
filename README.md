@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
@@ -205,5 +206,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahil2802/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
