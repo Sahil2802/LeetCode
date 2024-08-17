@@ -10,38 +10,51 @@
  */
 class Solution {
 public:
-    ListNode* arrayToLL(vector<int>& arr){
+    // Function to merge two sorted linked lists
+    ListNode* merge(ListNode* list1, ListNode* list2){
         ListNode* dummyNode = new ListNode(-1); // Create a dummy node
-        ListNode* temp = dummyNode; // Temp pointer to build the new linked list
+        ListNode* temp = dummyNode; // Pointer to build the merged list
 
-        // Loop through the array and create a linked list node for each element
-        for(int i = 0; i < arr.size(); i++){
-            // Create a new node with the current array element
-            temp->next = new ListNode(arr[i]);
-            // Move the temp pointer to the new node
-            temp = temp->next;
+        // Traverse both lists and link nodes in sorted order
+        while(list1 != nullptr && list2 != nullptr){
+            if(list1->val < list2->val){
+                temp->next = list1; // Link the smaller node to the merged list
+                list1 = list1->next; // Move to the next node in list1
+            }
+            else{
+                temp->next = list2; // Link the smaller node to the merged list
+                list2 = list2->next; // Move to the next node in list2
+            }
+            temp = temp->next; // Move the pointer in the merged list
         }
-        // Return the head of the new linked list (skip the dummy node)
+
+        // Append the remaining nodes
+        if (list1 != nullptr) {
+            temp->next = list1;
+        } 
+        else {
+            temp->next = list2;
+        }
+        // Return the head of the merged list skipping dummyNode
         return dummyNode->next;
     }
 
+    // Function to recursively divide and merge the lists
+    ListNode* mergeSort(vector<ListNode*>& lists, int start, int end){
+        // Base case: only one list
+        if (start == end) return lists[start];
+
+        // Divide the lists into two halves
+        int mid = start + (end - start) / 2;
+        
+        ListNode* left = mergeSort(lists, start, mid); // Recursively sort the left half
+        ListNode* right = mergeSort(lists, mid + 1, end); // Recursively sort the right half
+        // Merge the two sorted halves
+        return merge(left, right);
+    }
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector <int> arr; // Vector to store all the values from the given linked lists
-        // Loop through each linked list
-        for(int i = 0; i < lists.size(); i++){
-            // Temp pointer to traverse the current linked list
-            ListNode* temp = lists[i];
-
-            // Traverse the current linked list and store its values in the array
-            while(temp){
-                arr.push_back(temp->val); // Add the value to the array
-                temp = temp->next; // Move to the next node
-            }
-
-        }
-        // Sort the array of values
-        sort(arr.begin(), arr.end());
-        // Convert the sorted array back to a linked list
-        return arrayToLL(arr); 
+        if(lists.size() == 0) return nullptr; // if the list is empty
+        return mergeSort(lists, 0, lists.size() - 1);
     }
 };
