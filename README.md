@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahil2802/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Matrix
@@ -228,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -266,4 +271,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
