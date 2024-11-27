@@ -1,9 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int n = nums.size(); 
+        int n = nums.size();
 
-        map<int, int> freq; // Initialize a map to count the frequency of each number
+        map<int, int>
+            freq; // Initialize a map to count the frequency of each number
 
         // Count the occurrences of each number in the map
         for (int i = 0; i < n; i++) {
