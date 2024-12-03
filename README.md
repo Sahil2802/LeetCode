@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahil2802/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Sahil2802/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0283-move-zeroes) |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -279,5 +282,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
