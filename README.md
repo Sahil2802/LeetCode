@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil2802/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sahil2802/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil2802/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sahil2802/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sahil2802/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
