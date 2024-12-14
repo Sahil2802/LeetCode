@@ -1,30 +1,32 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end()); // Sort the array
+        unordered_set<int> st; // Unordered set to store unique elements
+        int n = nums.size(); 
 
-        // If the array is empty, return 0
-        if (n == 0) {
-            return 0; 
+        if (n == 0) return 0; // If the array is empty, return 0
+
+        // Insert all elements of the array into the set
+        for (int i = 0; i < n; i++) {
+            st.insert(nums[i]);
         }
 
-        int currConsecutive = 1; // Initialize the current consecutive sequence length
         int longestConsecutive = 1; // Initialize the longest consecutive sequence length
 
-        // Iterate through the sorted array
-        for (int i = 1; i < n; i++) {
-            // Skip duplicates
-            if (nums[i] != nums[i - 1]) { 
-                if (nums[i] == nums[i - 1] + 1) {
-                    currConsecutive++; // Increment the current sequence length
-                    longestConsecutive = max(longestConsecutive, currConsecutive); // Update the longest sequence length
-                } else {
-                    currConsecutive = 1; // Reset the current sequence length
+        // Iterate through each element in the array
+        for (auto num : nums) {
+            // Check if the current number is the start of a sequence (skip if current element is not the start of the set)
+            if (st.find(num - 1) == st.end()) {
+                int currConsecutive = 1; // Initialize the current consecutive sequence length
+                // Increment current cnosecutive length if you find the next element of num
+                while (st.find(num + 1) != st.end()) {
+                    currConsecutive++;
+                    num++;
                 }
+                // Update the longest consecutive sequence length
+                longestConsecutive = max(longestConsecutive, currConsecutive);
             }
         }
-
         return longestConsecutive; 
     }
 };
