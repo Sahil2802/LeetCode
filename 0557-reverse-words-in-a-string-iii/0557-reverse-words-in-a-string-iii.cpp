@@ -8,7 +8,7 @@ public:
         while (r <= n) {
             // If we find a space or reach the end of the string, reverse the word
             if (r == n || s[r] == ' ') {
-                reverse(s.begin() + l, s.begin() + r); // Reverse the current word
+                reverse(s.begin() + l, s.begin() + r); // Reverse the current word range being [l, r)
                 l = r + 1; // Move the left pointer to the start of the next word
             }
             r++; // Move the right pointer to the next character
