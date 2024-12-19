@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Sahil2802/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
