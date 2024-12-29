@@ -4,6 +4,7 @@ public:
         int n = nums.size(); 
         int low = 0, mid = 0, high = n - 1; // Initialize pointers
 
+        // Traverse through the array and swap with either low or high with the help of mid pointer
         // Process elements until the mid pointer crosses the high pointer
         while (mid <= high) {
             if (nums[mid] == 0) {
