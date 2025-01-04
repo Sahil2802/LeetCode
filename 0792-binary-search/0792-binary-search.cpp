@@ -1,23 +1,31 @@
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
+    // Function to perform binary search on a sorted vector
     int search(vector<int>& nums, int target) {
-        int l = 0;
-        int r = nums.size() - 1;
+        int n = nums.size(); // Get the size of the input vector
+        int l = 0, r = n - 1; // Initialize left and right boundaries of the search range
 
-        // Loop through the array comparing middle element with the target element
-        while (l <= r){
-            int mid = (l + r)/2;    
-            if (nums[mid] == target){
-                return mid;
+        // Loop to perform binary search
+        while (l <= r) {
+            int mid = (l + r) / 2; // Calculate the middle index of the current search range
+
+            // Check if the target is equal to the middle element
+            if (target == nums[mid]) {
+                return mid; // Target found, return the index
             }
-            else if (nums[mid] > target){
-                r = mid - 1;
+            // Check if the target is less than the middle element
+            else if (nums[mid] > target) {
+                r = mid - 1; // Update the right boundary to search in the left half
             }
-            else{
-                l = mid + 1;
+            // Check if the target is greater than the middle element
+            else {
+                l = mid + 1; // Update the left boundary to search in the right half
             }
         }
-        return -1;
-        
+
+        return -1; // Target not found, return -1
     }
 };
