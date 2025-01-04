@@ -20,7 +20,7 @@ public:
         // This will hold the final result of x raised to the power N
         double result = 1.0;
 
-        // Step 5: Use binary exponentiation to calculate the power
+        // Step 5: Use BINARY EXPONENTIATION to calculate the power
         // Iterate while N is greater than 0
         while (N > 0) {
             // If N is odd, multiply result by x and decrement N
