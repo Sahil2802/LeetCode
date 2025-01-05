@@ -1,6 +1,3 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     // Function to perform binary search on a sorted vector
