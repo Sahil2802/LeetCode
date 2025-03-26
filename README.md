@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Sahil2802/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sahil2802/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
