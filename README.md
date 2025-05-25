@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sahil2802/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sahil2802/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Sahil2802/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Sahil2802/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sahil2802/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -395,4 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sahil2802/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
