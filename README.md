@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Sahil2802/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/Sahil2802/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sahil2802/LeetCode/tree/master/0070-climbing-stairs) |
+| [0213-house-robber-ii](https://github.com/Sahil2802/LeetCode/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Sahil2802/LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
