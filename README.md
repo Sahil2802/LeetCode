@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sahil2802/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
