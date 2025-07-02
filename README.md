@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Sahil2802/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
