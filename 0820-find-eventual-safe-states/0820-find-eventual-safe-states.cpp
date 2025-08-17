@@ -1,52 +1,57 @@
 class Solution {
 public:
-    // Function to find all eventual safe nodes in a directed graph
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size(); // Number of nodes in the graph
-        
-        // vis: marks if a node has been visited
-        // visPath: marks if a node is in the current DFS path (for cycle detection)
-        // isSafe: marks if a node is eventually safe (not part of any cycle)
-        vector<bool> vis(n, false), visPath(n, false), isSafe(n, false);
-        vector<int> safeNodes; // Stores the result
+        int n = graph.size();
 
-        // Run DFS for each node if it hasn't been visited
-        for(int i = 0; i < n; i++){
-            if(!vis[i]){
-                dfs(i, vis, visPath, isSafe, graph);
+        // Step 1: Build the reverse graph + out-degree array
+        // reverse graph: for each edge u → v in original, add v → u in reversed
+        vector<vector<int>> revGraph(n);
+        vector<int> outDegree(n, 0);
+
+        for (int u = 0; u < n; u++) {
+            for (int v : graph[u]) {
+                revGraph[v].push_back(u);   // reverse edge
+            }
+            outDegree[u] = graph[u].size(); // number of outgoing edges from u
+        }
+
+        // Step 2: Initialize queue with terminal nodes (out-degree = 0)
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (outDegree[i] == 0) {
+                q.push(i);
             }
         }
 
-        // Collect all nodes that are marked as safe
-        for(int i = 0; i < n; i++){
-            if(isSafe[i]){
-                safeNodes.push_back(i);
-            }
-        }
-        return safeNodes;
-    }
+        // Step 3: BFS (Kahn’s algorithm style)
+        // safe[i] = true if node i is eventually safe
+        vector<bool> safe(n, false);
 
-private:
-    // Helper DFS function to detect cycles and mark safe nodes
-    bool dfs(int node, vector<bool> &vis, vector<bool> &visPath, vector<bool> &isSafe, vector<vector<int>>& graph){
-        vis[node] = true;        // Mark node as visited
-        visPath[node] = true;    // Mark node as part of current DFS path
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
 
-        // Traverse all neighbors of the current node
-        for(auto neighbor : graph[node]){
-            if(!vis[neighbor]){
-                // If neighbor is not visited, continue DFS
-                // If any neighbor is not safe, return false
-                if(!dfs(neighbor, vis, visPath, isSafe, graph)) return false;
-            }
-            else if(visPath[neighbor]){
-                // If neighbor is in current DFS path, a cycle exists
-                return false;
+            // this node is safe (because it led to a terminal node)
+            safe[node] = true;
+
+            // check all predecessors of this node in the reversed graph
+            for (int prev : revGraph[node]) {
+                outDegree[prev]--;  // one outgoing edge from prev is now resolved
+                if (outDegree[prev] == 0) {
+                    // if prev has no more outgoing edges, it is safe
+                    q.push(prev);
+                }
             }
         }
 
-        visPath[node] = false;   // Remove node from current DFS path before backtracking
-        isSafe[node] = true;     // Mark node as safe
-        return true;             // Node is safe
+        // Step 4: Collect all safe nodes
+        vector<int> result;
+        for (int i = 0; i < n; i++) {
+            if (safe[i]) {
+                result.push_back(i);
+            }
+        }
+
+        return result;  // already in ascending order
     }
 };
