@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sahil2802/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahil2802/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sahil2802/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahil2802/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -476,4 +480,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
