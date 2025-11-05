@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
@@ -438,10 +441,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
 | ------- |
@@ -456,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
 ## Memoization
 |  |
