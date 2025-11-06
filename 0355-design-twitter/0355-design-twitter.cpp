@@ -19,37 +19,44 @@ public:
     // Retrieve the 10 most recent tweets in the user's news feed
     // Includes tweets from the user and all their followees
     vector<int> getNewsFeed(int userId) {
-        // Step 1: Collect all users whose tweets should appear in feed
-        vector<int> users;
-        users.push_back(userId);  // Include user's own tweets
-        
-        // Add all followees if user follows anyone
-        if(following.count(userId)){
-            for(int followee : following[userId]){
-                users.push_back(followee);
+
+
+        unordered_set<int> users = following[userId];
+        users.insert(userId);
+
+        // Each heap element: {timestamp, {userId, tweetIndex}}
+        priority_queue<pair<int, pair<int, int>>> maxHeap;
+        // Step 2: Push the most recent (last) tweet from each user into the heap
+        for(int currUser : users){
+            auto &tweetList = tweets[currUser];
+
+            if(!tweetList.empty()){
+                int lastTweetIndex = tweetList.size() - 1;
+                int lastTweetTime = tweetList[lastTweetIndex].first;
+                maxHeap.push({lastTweetTime, {currUser, lastTweetIndex}});
             }
         }
 
-        // Step 2: Collect all tweets from relevant users into max heap
-        // Max heap ordered by timestamp (most recent first)
-        priority_queue<pair<int, int>> maxHeap;
-
-        for(int u : users){
-            for(auto &tweet : tweets[u]){
-                maxHeap.push(tweet);  // Push (timestamp, tweetId) pair
-            }
-        } 
-
-        // Step 3: Extract top 10 most recent tweets
-        vector<int> feed;
-        int count = 0;
-        while(!maxHeap.empty() && count < 10){
-            int tweet = maxHeap.top().second;  // Get tweetId (second element of pair)
-            feed.push_back(tweet);
+        vector<int> feed;  // Stores up to 10 most recent tweet IDs
+        // Step 3: Extract the 10 most recent tweets
+        while (!maxHeap.empty() && feed.size() < 10) {
+            auto topTweet = maxHeap.top();
             maxHeap.pop();
-            count++;
+
+            int tweetTime = topTweet.first;
+            int tweetUser = topTweet.second.first;
+            int tweetIndex = topTweet.second.second;
+
+            int tweetId = tweets[tweetUser][tweetIndex].second;  
+            feed.push_back(tweetId);
+
+            if(tweetIndex > 0){
+                int prevTweetTime = tweets[tweetUser][tweetIndex - 1].first;
+                maxHeap.push({prevTweetTime, {tweetUser, tweetIndex - 1}});
+            }
         }
         return feed;
+
     }
     
     // Follower starts following a followee
