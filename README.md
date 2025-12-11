@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Two Pointers
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Sahil2802/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sahil2802/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Sahil2802/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sahil2802/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -435,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sahil2802/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -453,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sahil2802/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahil2802/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -469,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
