@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil2802/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil2802/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahil2802/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil2802/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil2802/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Sahil2802/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahil2802/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
