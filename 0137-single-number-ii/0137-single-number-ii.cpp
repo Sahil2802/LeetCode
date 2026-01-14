@@ -1,26 +1,25 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0; 
+        // ones: tracks bits that have appeared exactly once (mod 3)
+        // twos: tracks bits that have appeared exactly twice (mod 3)
+        // When a bit appears 3 times, it's cleared from both ones and twos
+        int ones = 0, twos = 0;
         
-        // Check all 32 bit positions (since nums[i] is in range [-2^31, 2^31-1])
-        for(int bit = 0; bit < 32; bit++){
-            int count = 0;  // Count how many numbers have this bit set
+        for(int x : nums){
+            // Update ones: XOR with current number to toggle the bit
+            // Then AND with ~twos to clear bits that have appeared twice
+            // This ensures bits appearing for the 3rd time don't stay in ones
+            ones = (ones ^ x) & (~twos); 
             
-            // Count occurrences of current bit across all numbers
-            for(int x : nums){
-                // Check if bit at position 'bit' is set in x
-                if((x >> bit) & 1){
-                    count++;
-                }
-            }
-            
-            // If count is not divisible by 3, this bit belongs to the single number
-            // (Numbers appearing 3 times contribute bits in multiples of 3)
-            if(count % 3 != 0){
-                ans = ans | (1 << bit);  // Set this bit in the answer
-            }
+            // Update twos: XOR with current number to toggle the bit
+            // Then AND with ~ones to clear bits that are currently in ones
+            // This moves bits from ones to twos on their second appearance
+            twos = (twos ^ x) & (~ones); 
         }
-        return ans;
+        
+        // After processing all numbers, ones contains the bits of the 
+        // number that appeared exactly once (all others appeared 3 times)
+        return ones;
     }
 };
