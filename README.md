@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
+| [0904-fruit-into-baskets](https://github.com/Sahil2802/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil2802/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Sahil2802/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Sahil2802/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil2802/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Sahil2802/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil2802/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sahil2802/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/Sahil2802/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil2802/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
