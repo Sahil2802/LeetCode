@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil2802/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sahil2802/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Sahil2802/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sahil2802/LeetCode/tree/master/0125-valid-palindrome) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sahil2802/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Sahil2802/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
