@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sahil2802/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil2802/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sahil2802/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil2802/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -546,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
