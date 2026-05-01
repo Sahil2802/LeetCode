@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahil2802/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahil2802/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sahil2802/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
