@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahil2802/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Sahil2802/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahil2802/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil2802/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahil2802/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
