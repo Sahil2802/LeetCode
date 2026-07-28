@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil2802/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil2802/LeetCode/tree/main/0027-remove-element/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil2802/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Sahil2802/LeetCode/tree/master/0031-next-permutation) |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/Sahil2802/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sahil2802/LeetCode/tree/master/0148-sort-list) |
