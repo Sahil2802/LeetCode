@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahil2802/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Sahil2802/LeetCode/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [1013-fibonacci-number](https://github.com/Sahil2802/LeetCode/tree/master/1013-fibonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil2802/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil2802/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
