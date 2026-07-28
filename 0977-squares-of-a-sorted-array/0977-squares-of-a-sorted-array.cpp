@@ -6,7 +6,7 @@ public:
 
         int left = 0, right = n - 1; // two pointers at the ends
 
-        // Fill result from the back — largest square goes to the highest index
+        // Fill result from the back largest square goes to the highest index
         for (int i = n - 1; i >= 0; i--) {
             // The bigger absolute value produces the bigger square
             if (abs(nums[left]) > abs(nums[right])) {
