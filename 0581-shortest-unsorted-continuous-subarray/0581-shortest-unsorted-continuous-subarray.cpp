@@ -2,24 +2,34 @@ class Solution {
 public:
     int findUnsortedSubarray(vector<int>& nums) {
         int n = nums.size();
-        vector<int> sorted_nums = nums; // copy
-        sort(sorted_nums.begin(), sorted_nums.end());
+        int left = -1, right = -1;
 
-        int left = 0, right = n - 1;
-
-        // Find first index where original and sorted differ
-        while (left < n && nums[left] == sorted_nums[left]) {
-            left++;
+        // Left to right: track running max (biggest value seen so far)
+        int maxSoFar = INT_MIN;
+        for (int i = 0; i < n; i++) {
+            maxSoFar = max(nums[i], maxSoFar);
+            // If current element is smaller than max seen before it,
+            // it's out of place -> extend the right boundary
+            if (nums[i] < maxSoFar) {
+                right = i;
+            }
         }
 
-        // Already fully sorted
-        if (left == n) return 0;
+        // Array is already fully sorted, nothing to do
+        if (right == -1) return 0;
 
-        // Find last index where original and sorted differ
-        while (right >= 0 && nums[right] == sorted_nums[right]) {
-            right--;
+        // Right to left: track running min (smallest value seen so far)
+        int minSoFar = INT_MAX;
+        for (int i = n - 1; i >= 0; i--) {
+            minSoFar = min(nums[i], minSoFar);
+            // If current element is bigger than min seen after it,
+            // it's out of place -> extend the left boundary
+            if (nums[i] > minSoFar) {
+                left = i;
+            }
         }
 
+        // Length of the shortest subarray that needs sorting
         return right - left + 1;
     }
 };
