@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sahil2802/LeetCode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 | Problem Name | Difficulty |
