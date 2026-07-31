@@ -9,7 +9,7 @@ public:
         stack<char> st;
         for (char ch : str) {
             if (ch == '#') {
-                // '#' means backspace: remove last typed char, if any
+                // '#' : remove last typed char, if any
                 if (!st.empty()) {
                     st.pop();
                 }
