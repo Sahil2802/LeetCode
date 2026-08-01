@@ -140,8 +140,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil2802/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sahil2802/LeetCode/tree/master/0127-word-ladder) |
@@ -169,14 +169,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2653-sliding-subarray-beauty](https://github.com/Sahil2802/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sahil2802/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil2802/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil2802/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahil2802/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sahil2802/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sahil2802/LeetCode/tree/master/0125-valid-palindrome) |
@@ -208,11 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil2802/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Sahil2802/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Sahil2802/LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahil2802/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sahil2802/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Sahil2802/LeetCode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sahil2802/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -231,8 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sahil2802/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil2802/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sahil2802/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahil2802/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -249,8 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2653-sliding-subarray-beauty](https://github.com/Sahil2802/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sahil2802/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -262,14 +264,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sahil2802/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Sahil2802/LeetCode/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/Sahil2802/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sahil2802/LeetCode/tree/main/0018-4sum/) | Medium |
@@ -348,8 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2653-sliding-subarray-beauty](https://github.com/Sahil2802/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Sahil2802/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sahil2802/LeetCode/tree/master/0050-powx-n) |
@@ -362,8 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil2802/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Sahil2802/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
@@ -377,20 +379,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil2802/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil2802/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Sahil2802/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Sahil2802/LeetCode/tree/master/0078-subsets) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/Sahil2802/LeetCode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahil2802/LeetCode/tree/master/0035-search-insert-position) |
@@ -409,8 +411,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/Sahil2802/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sahil2802/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -427,8 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sahil2802/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sahil2802/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
@@ -444,8 +446,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sahil2802/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -453,8 +455,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Sahil2802/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/Sahil2802/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sahil2802/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sahil2802/LeetCode/tree/master/0137-single-number-ii) |
@@ -467,8 +469,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/Sahil2802/LeetCode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sahil2802/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sahil2802/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sahil2802/LeetCode/tree/master/0148-sort-list) |
@@ -476,8 +478,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Sahil2802/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sahil2802/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -487,20 +489,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahil2802/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Sahil2802/LeetCode/tree/master/0148-sort-list) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sahil2802/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahil2802/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sahil2802/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Sahil2802/LeetCode/tree/master/0130-surrounded-regions) |
@@ -521,15 +523,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahil2802/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sahil2802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Sahil2802/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahil2802/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0127-word-ladder](https://github.com/Sahil2802/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sahil2802/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Sahil2802/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -552,8 +554,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Sahil2802/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Union Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil2802/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil2802/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sahil2802/LeetCode/tree/master/0200-number-of-islands) |
@@ -567,8 +569,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sahil2802/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sahil2802/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/Sahil2802/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sahil2802/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Sahil2802/LeetCode/tree/main/0018-4sum/) | Medium |
@@ -589,21 +591,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahil2802/LeetCode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahil2802/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahil2802/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahil2802/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil2802/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -612,8 +614,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil2802/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sahil2802/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0055-jump-game](https://github.com/Sahil2802/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -625,13 +627,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sahil2802/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Sahil2802/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sahil2802/LeetCode/tree/master/1013-fibonacci-number) |
 ## Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/Sahil2802/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil2802/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sahil2802/LeetCode/tree/master/0547-number-of-provinces) |
@@ -643,48 +645,52 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil2802/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil2802/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/Sahil2802/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sahil2802/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Sahil2802/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil2802/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sahil2802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sahil2802/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sahil2802/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahil2802/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sahil2802/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0187-repeated-dna-sequences](https://github.com/Sahil2802/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/Sahil2802/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/Sahil2802/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahil2802/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
