@@ -1,24 +1,32 @@
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
-        // Compare the final "typed" result of both strings
-        return buildFinalString(s) == buildFinalString(t);        
-    }
+        int i = s.size() - 1;
+        int j = t.size() - 1;
 
-    stack<char> buildFinalString(string str) {
-        stack<char> st;
-        for (char ch : str) {
-            if (ch == '#') {
-                // '#' : remove last typed char, if any
-                if (!st.empty()) {
-                    st.pop();
-                }
-                // if stack is empty, backspacing does nothing
-            } else {
-                // regular character: type it
-                st.push(ch);
+        while(i >= 0 || j >= 0){
+            int skipS = 0;
+            while(i >= 0 && (s[i] == '#' || skipS > 0)){
+                if(s[i] == '#') skipS++;
+                else skipS--;
+                i--;
             }
+
+            int skipT = 0;
+            while(j >= 0 && (t[j] == '#' || skipT > 0)){
+                if(t[j] == '#') skipT++;
+                else skipT--;
+                j--;
+            }
+
+            if(i >= 0 && j >= 0){
+                if(s[i] != t[j]) return false;
+            }
+            else if (i >= 0 || j >= 0) return false;
+
+            i--;
+            j--;
         }
-        return st;
+        return true;
     }
 };
