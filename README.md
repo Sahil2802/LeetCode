@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Sahil2802/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahil2802/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sahil2802/LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Sahil2802/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sahil2802/LeetCode/tree/master/0148-sort-list) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sahil2802/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sahil2802/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sahil2802/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sahil2802/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sahil2802/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sahil2802/LeetCode/tree/master/0136-single-number) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Sahil2802/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Sahil2802/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sahil2802/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sahil2802/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sahil2802/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sahil2802/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
