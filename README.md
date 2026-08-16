@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil2802/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Sahil2802/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Sahil2802/LeetCode/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahil2802/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sahil2802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil2802/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Sahil2802/LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahil2802/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahil2802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil2802/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/Sahil2802/LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil2802/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Sahil2802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil2802/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Sahil2802/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Sahil2802/LeetCode/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0621-task-scheduler](https://github.com/Sahil2802/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
