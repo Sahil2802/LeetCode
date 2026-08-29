@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Sahil2802/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sahil2802/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Sahil2802/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sahil2802/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sahil2802/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Sahil2802/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/Sahil2802/LeetCode/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
