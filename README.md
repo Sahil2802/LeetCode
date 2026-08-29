@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sahil2802/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sahil2802/LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Sahil2802/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Sahil2802/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sahil2802/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Sahil2802/LeetCode/tree/master/1013-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahil2802/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0475-heaters](https://github.com/Sahil2802/LeetCode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sahil2802/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Sahil2802/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Sahil2802/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Sahil2802/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Sahil2802/LeetCode/tree/master/0907-koko-eating-bananas) |
