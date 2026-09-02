@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Sahil2802/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sahil2802/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Sahil2802/LeetCode/tree/main/0763-partition-labels/) | Medium |
+| [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [0838-push-dominoes](https://github.com/Sahil2802/LeetCode/tree/main/0838-push-dominoes/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Sahil2802/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Sahil2802/LeetCode/tree/master/0792-binary-search) |
 | [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/Sahil2802/LeetCode/tree/master/0876-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/Sahil2802/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-lemonade-change](https://github.com/Sahil2802/LeetCode/tree/master/0890-lemonade-change) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Sahil2802/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sahil2802/LeetCode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Sahil2802/LeetCode/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [1036-rotting-oranges](https://github.com/Sahil2802/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sahil2802/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sahil2802/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sahil2802/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sahil2802/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/Sahil2802/LeetCode/tree/master/0461-hamming-distance) |
+| [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sahil2802/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -636,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sahil2802/LeetCode/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
