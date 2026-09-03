@@ -14,6 +14,8 @@ public:
             } else {
                 // even index has an odd value and odd index has an even value: fix both with one swap
                 swap(nums[even], nums[odd]);
+                even += 2;
+                odd += 2;
             }
         }
         return nums;
