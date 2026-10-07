@@ -6,12 +6,16 @@ public:
         int i = 0, j = 0;
         
         string ans = "";
-        while(i < n || j < m){
-            if(i < n){
+
+        // Keep looping while at least one string has characters left
+        while (i < n || j < m) {
+            // If word1 has characters remaining, add the next one
+            if (i < n) {
                 ans.push_back(word1[i]);
                 i++;
             }
-            if(j < m){
+            // If word2 has characters remaining, add the next one
+            if (j < m) {
                 ans.push_back(word2[j]);
                 j++;
             }
