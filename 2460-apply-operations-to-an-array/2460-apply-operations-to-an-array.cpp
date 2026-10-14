@@ -14,13 +14,13 @@ public:
             j++;
         }
 
-        // Step 2: shift all zeros to the end (stable, in place)
-        for(int k = 0; k < n; k++){
-            if(nums[k] == 0){
-                for(int l = k + 1; l < n; l++){
+        // Step 2: shift all zeros to the end, O(n^2)
+        for(int k = 0; k < n; k++){              // k = position being filled
+            if(nums[k] == 0){                    // only act if this slot holds a zero
+                for(int l = k + 1; l < n; l++){  // l = scans right for a non-zero
                     if(nums[l] != 0){
-                        swap(nums[k], nums[l]);
-                        break;
+                        swap(nums[k], nums[l]);  // pull the first non-zero into slot k
+                        break;                   // one swap per zero, move to next k
                     }
                 }
             }
