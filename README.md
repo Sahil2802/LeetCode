@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahil2802/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sahil2802/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahil2802/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sahil2802/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2653-sliding-subarray-beauty](https://github.com/Sahil2802/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Sahil2802/LeetCode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -663,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
