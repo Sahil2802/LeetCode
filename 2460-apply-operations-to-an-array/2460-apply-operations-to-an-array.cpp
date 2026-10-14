@@ -15,13 +15,15 @@ public:
         }
 
         // Step 2: shift all zeros to the end (stable, in place)
-        int k = 0, l = 0;   // k = scanner, l = next slot for a non-zero value
-        while(k < n){
-            if(nums[k] != 0){
-                swap(nums[k], nums[l]);   // move non-zero to the front section
-                l++;                      // advance only when a non-zero is placed
+        for(int k = 0; k < n; k++){
+            if(nums[k] == 0){
+                for(int l = k + 1; l < n; l++){
+                    if(nums[l] != 0){
+                        swap(nums[k], nums[l]);
+                        break;
+                    }
+                }
             }
-            k++;                          // scanner always advances
         }
         return nums;
     }
