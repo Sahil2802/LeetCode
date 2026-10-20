@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sahil2802/LeetCode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahil2802/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sahil2802/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sahil2802/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sahil2802/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Sahil2802/LeetCode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahil2802/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Sahil2802/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sahil2802/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Sahil2802/LeetCode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Sahil2802/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sahil2802/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/Sahil2802/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sahil2802/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sahil2802/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Sahil2802/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 ## Prefix Sum
